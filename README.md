@@ -19,3 +19,15 @@ python main.py
 
 Die Anwendung benötigt eine angeschlossene Kamera.
 
+
+## Genutzte Datensätze
+
+Fruit Detection Dataset von Lakshay Tyagi · Nishita Gunjal
+```bash
+https://www.kaggle.com/datasets/lakshaytyagi01/fruit-detection/data
+```
+
+Fruit-360 
+```bash
+https://www.kaggle.com/datasets/moltean/fruits
+```
