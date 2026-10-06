@@ -39,7 +39,7 @@ In dem gesamten Projekt wurde für die Aufgaben, das erstellen des GUIs, trainie
 Prompts sahen nach der Anweisung keinen Code-Vorschlag zu bekommen oder direkte Änderungen vorgenommen werden strikt so aus:
 
 ```bash
-Ich arbeite gerade an meinem Projekt über ... gebe mir eine grobe vorgehens Struktur.
+Ich arbeite gerade an meinem Projekt über ... gebe mir eine grobe Vorgehensstruktur.
 ```
 
 ```bash
