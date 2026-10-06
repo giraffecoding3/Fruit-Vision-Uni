@@ -19,6 +19,7 @@ from ultralytics.engine.results import Results
 from src.camera.kamera import Camera
 from src.gui.components.camera_overlay import CameraOverlay
 
+## Die Path Beschreibung ist KI unterstützt enstanden, weil ich nicht wollte, dass es auf einem anderen System vielleicht Probleme mit den Pfaden gibt
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 MODEL_PATH_OBJ = PROJECT_ROOT / "models" / "trained" / "Object_detection" / "weights" / "trained_object_detection_1.pt"
 MODEL_PATH_CLS = PROJECT_ROOT / "models" / "trained" / "Classification_1_own_data" / "weights" / "best.pt"

@@ -31,3 +31,33 @@ Fruit-360 von Mihai Oltean
 ```bash
 https://www.kaggle.com/datasets/moltean/fruits
 ```
+
+
+## Decleration of AI-Usage
+In dem gesamten Projekt wurde für die Aufgaben, des erstellen des GUIs, trainieren der Modelle, sowie einbindung in die Kameraanwendung, die KI ausschließlich als "Tutor" und selten zum debuggen genutzt. Die einzigen von KI generierten Skripts, sind die Vergleichsauswertungen der jeweiligen Modelle und das Skript, um Fotos im gleichen Format auf beiden meiner Geräte zu machen.
+
+Prompts sahen nach der Anweisung keinen Code-Vorschlag zu bekommen oder direkte Änderungen vorgenommen werden strikt so aus:
+
+```bash
+Ich arbeite gerade an meinem Projekt über ... gebe mir eine grobe vorgehens Struktur.
+```
+
+```bash
+Welche Pakete/Frameworks sollte ich zu Realisierung meiner Ideen nutzen?
+```
+
+```bash
+Was sollten die nächsten Schritte in meiner Projektarbeit sein?
+```
+
+```bash
+Was bedeuten die Parameter in der .train(...) Funktion? 
+```
+
+```bash
+Ich möchte für mein GUI eine transparente Ebene haben, was für ein Layout brauche ich dafür?
+```
+
+```bash
+Auf was sollte ich beim aufnehmen der Fotos für meinen Datensatz achten, damit das Ergebnis möglichst vielversprechend wird
+```
