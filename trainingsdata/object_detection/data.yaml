@@ -1,0 +1,9 @@
+# Pfade relativ zu dieser Datei
+train: C:\Users\alexa\Desktop\Fruit-Vision\trainingsdata\train\images
+val: C:\Users\alexa\Desktop\Fruit-Vision\trainingsdata\valid\images
+test: C:\Users\alexa\Desktop\Fruit-Vision\trainingsdata\object_detection\test\images
+
+# Klassen-ID aus den YOLO-Labeldateien -> Klassenname
+names:
+  0: Apple
+  1: Banana

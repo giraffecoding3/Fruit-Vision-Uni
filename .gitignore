@@ -1,0 +1,14 @@
+trainingsdata/classification/Fruit360
+*.jpg
+data\Fruits-detection
+
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# Local environment and OS metadata
+.venv/
+.DS_Store
+
+# Ultralytics dataset caches
+*.cache
