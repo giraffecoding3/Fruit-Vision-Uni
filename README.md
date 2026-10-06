@@ -34,7 +34,7 @@ https://www.kaggle.com/datasets/moltean/fruits
 
 
 ## Decleration of AI-Usage
-In dem gesamten Projekt wurde für die Aufgaben, des erstellen des GUIs, trainieren der Modelle, sowie einbindung in die Kameraanwendung, die KI ausschließlich als "Tutor" und selten zum debuggen genutzt. Die einzigen von KI generierten Skripts, sind die Vergleichsauswertungen der jeweiligen Modelle und das Skript, um Fotos im gleichen Format auf beiden meiner Geräte zu machen.
+In dem gesamten Projekt wurde für die Aufgaben, das erstellen des GUIs, trainieren der Modelle, sowie Einbindung in die Kameraanwendung, die KI ausschließlich als "Tutor" und selten zum debuggen genutzt. Die einzigen von KI generierten Skripts, sind die Vergleichsauswertungen der jeweiligen Modelle und das Skript, um Fotos im gleichen Format auf beiden meiner Geräte zu machen.
 
 Prompts sahen nach der Anweisung keinen Code-Vorschlag zu bekommen oder direkte Änderungen vorgenommen werden strikt so aus:
 
