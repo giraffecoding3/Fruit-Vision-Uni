@@ -27,7 +27,7 @@ Fruit Detection Dataset von Lakshay Tyagi · Nishita Gunjal
 https://www.kaggle.com/datasets/lakshaytyagi01/fruit-detection/data
 ```
 
-Fruit-360 
+Fruit-360 von Mihai Oltean 
 ```bash
 https://www.kaggle.com/datasets/moltean/fruits
 ```
